@@ -16,7 +16,12 @@ Hobbies:
 
 Life Goals:
 ---
--finish WDI6
--get a job
--go on a loooooooooooooooooog vacation!
+- [ ] finish WDI6
+- [ ] get a job
+- [ ] go on a loooooooooooooooooog vacation!
 (among many things..)
+
+Favourite Joke:
+---
+> Why does the chicken cross the road?
+> To say HELLO FROM THE OTHER SIDE (like Adele)
